@@ -24,6 +24,6 @@ header {
 }
 
 header p {
-    /*add the font-style property here*/
+        /*add the font-style property here*/
     font-style: italic;
 }
