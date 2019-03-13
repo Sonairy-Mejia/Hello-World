@@ -65,3 +65,7 @@ header p {
 .team p {
      font-style: italic;   
 }
+
+.team h1 { 
+    text-align: center;
+}
