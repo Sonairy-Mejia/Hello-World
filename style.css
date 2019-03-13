@@ -27,3 +27,13 @@ header p {
         /*add the font-style property here*/
     font-style: italic;
 }
+.services i {
+    height: 80px;
+    width: 80px;
+    font-size: 40px;
+    border-radius: 50%;
+    color: orange;
+    background-color: red;
+    padding: 21px 2px; /*incase use 21px and 21px to center icons*/
+    text-align: center;
+}
