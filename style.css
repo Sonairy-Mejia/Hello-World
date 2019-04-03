@@ -21,7 +21,6 @@ header {
     
     text-align: center;
     font-family: 'Srisakdi', cursive;
-  
 }
 
 .bg {
@@ -38,12 +37,14 @@ header h1 {
 }
 
 header p {
-        /*add the font-style property here*/
+    
+        /*add the font-style property here*/   
     font-style: italic;
     font-size: 30px;
     color: white;
     
 }
+
 .services i {
     height: 80px;
     width: 80px;
@@ -68,4 +69,39 @@ header p {
 
 .team h1 { 
     text-align: center;
+}
+.team img {
+    height: 150px;
+    width:150px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+.contact {
+    margin: 40px;
+    
+}
+.contact h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact i{
+    font-size: 40px;
+    padding: 10px;
+    color: red;
+}
+
+.contact .input-group {
+    margin: 20px;
+}
+
+.contact .btn {
+    width: 100%;
+    font-size: 20px;
+    background-color: orange;
+    border-color: #39ff14;
+}
+
+.contact .text-area {
+    height: 200px;
 }
